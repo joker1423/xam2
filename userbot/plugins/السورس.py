@@ -4,7 +4,7 @@ from Jmthon.razan.resources.mybot import *
 
 from ..Config import Config
 
-ROZ_PIC = "https://telegra.ph/file/5f6ef13851dcf0d6fc72b.jpg"
+ROZ_PIC = "https://telegra.ph/file/1e89211bcdf45f1a4a33d.jpg"
 
 if Config.TG_BOT_USERNAME is not None and tgbot is not None:
 
