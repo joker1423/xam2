@@ -9,7 +9,7 @@ async def _(event):
     if event.fwd_from:
         return
     TG_BOT_USERNAME = Config.TG_BOT_USERNAME
-    await event.reply(f"**- البوت الخاص بك هو** \n {TG_BOT_USERNAME}")
+    await event.reply(f"**- البوت الخاص بك هو1** \n {TG_BOT_USERNAME}")
 
 
 # حتى هذا تخمطه  😂؟
