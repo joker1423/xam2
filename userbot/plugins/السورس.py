@@ -17,7 +17,7 @@ if Config.TG_BOT_USERNAME is not None and tgbot is not None:
         if query.startswith("السورس") and event.query.user_id == bot.uid:
             buttons = [
                 [
-                    Button.url("قنـاة السـورس ⚙️", "https://t.me/JMTHON"),
+                    Button.url("قنـاة السـورس ⚙️", "https://t.me/api_web"),
                     Button.url("المطـور 👨🏼‍💻", "https://t.me/RR7PP"),
                 ]
             ]
